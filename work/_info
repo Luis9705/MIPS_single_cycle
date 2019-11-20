@@ -1,0 +1,472 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/FLL1GA/Documents/Tec de Monterrey/7mo Semestre/Arquitectura de Computadoras/Verilog/MIPS_Single_Cycle/Entregables
+valu
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 DXx4 work 15 definitions_pkg 0 22 hlOW`^;0GCDF0]D9FPYfe1
+DXx4 work 11 alu_sv_unit 0 22 ;jXUL:3T@NTF_NG:[NPT40
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 D?07];C::zeg65MIl0o9O3
+I6zWG;J<NAcE<ke;][LTYE3
+!s105 alu_sv_unit
+S1
+R0
+Z4 w1572033710
+Z5 8alu.sv
+Z6 Falu.sv
+L0 4
+Z7 OV;L;10.5b;63
+Z8 !s108 1572033723.000000
+Z9 !s107 alu.sv|
+Z10 !s90 -reportprogress|300|-sv|alu.sv|
+!i113 1
+o-sv
+Z11 tCvgOpt 0
+Xalu_sv_unit
+R1
+R2
+V;jXUL:3T@NTF_NG:[NPT40
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?QF1:Vf;C]zURz>I^jnFJ3
+I;jXUL:3T@NTF_NG:[NPT40
+!i103 1
+S1
+R0
+R4
+R5
+R6
+L0 1
+R7
+R8
+R9
+R10
+!i113 1
+o-sv
+R11
+vcontroller
+R1
+R2
+DXx4 work 18 controller_sv_unit 0 22 Jd:I>jEUoLh28@oAOK=e;2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 lhFgLiOAjme@g0Y[QOA=?1
+Ib61Nh1hA[C^l;=lX7A>]^2
+!s105 controller_sv_unit
+S1
+R0
+Z12 w1572025682
+Z13 8controller.sv
+Z14 Fcontroller.sv
+L0 3
+R7
+R8
+Z15 !s107 controller.sv|
+Z16 !s90 -reportprogress|300|-sv|controller.sv|
+!i113 1
+o-sv
+R11
+Xcontroller_sv_unit
+R1
+R2
+VJd:I>jEUoLh28@oAOK=e;2
+r1
+!s85 0
+31
+!i10b 1
+!s100 mi:]@9ka3fJn6dVgBR5W52
+IJd:I>jEUoLh28@oAOK=e;2
+!i103 1
+S1
+R0
+R12
+R13
+R14
+L0 1
+R7
+R8
+R15
+R16
+!i113 1
+o-sv
+R11
+vdata_memory
+R1
+Z17 !s110 1572033724
+!i10b 1
+!s100 kTkfm]_HIV>coIJcV6k5V3
+I6@E;GIC4bJ^8ZO@3;bThC3
+R3
+!s105 data_memory_sv_unit
+S1
+R0
+w1571103173
+8data_memory.sv
+Fdata_memory.sv
+L0 3
+R7
+r1
+!s85 0
+31
+Z18 !s108 1572033724.000000
+!s107 data_memory.sv|
+!s90 -reportprogress|300|-sv|data_memory.sv|
+!i113 1
+o-sv
+R11
+Xdefinitions_pkg
+R1
+Z19 !s110 1572033722
+!i10b 1
+!s100 D8nB9XdioaUmRF:`5QmAZ0
+IhlOW`^;0GCDF0]D9FPYfe1
+VhlOW`^;0GCDF0]D9FPYfe1
+S1
+R0
+w1572024282
+8definitions_pkg.sv
+Fdefinitions_pkg.sv
+L0 1
+R7
+r1
+!s85 0
+31
+Z20 !s108 1572033722.000000
+!s107 definitions_pkg.sv|
+!s90 -reportprogress|300|-sv|definitions_pkg.sv|
+!i113 1
+o-sv
+R11
+vextend
+R1
+Z21 !s110 1572033723
+!i10b 1
+!s100 j_=Mh?Bn`B<M>Y4Xg7nEo3
+Ibz`j2@C5lQ2H9n?BmcY^L3
+R3
+!s105 extend_sv_unit
+S1
+R0
+w1571933449
+8extend.sv
+Fextend.sv
+L0 1
+R7
+r1
+!s85 0
+31
+R20
+!s107 extend.sv|
+!s90 -reportprogress|300|-sv|extend.sv|
+!i113 1
+o-sv
+R11
+vinstruction_decoder
+R1
+R2
+DXx4 work 27 instruction_decoder_sv_unit 0 22 h[dS:MBC=YWQiSb?hg@?l0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 mBE=OlV_l@zZIRG4oHmIn0
+I4Z8>>KMQmVJoQN0I1b;A:3
+!s105 instruction_decoder_sv_unit
+S1
+R0
+Z22 w1571073856
+Z23 8instruction_decoder.sv
+Z24 Finstruction_decoder.sv
+L0 4
+R7
+R20
+Z25 !s107 instruction_decoder.sv|
+Z26 !s90 -reportprogress|300|-sv|instruction_decoder.sv|
+!i113 1
+o-sv
+R11
+Xinstruction_decoder_sv_unit
+R1
+R2
+Vh[dS:MBC=YWQiSb?hg@?l0
+r1
+!s85 0
+31
+!i10b 1
+!s100 4A2ja?EOXBBR=JlB@8U;]2
+Ih[dS:MBC=YWQiSb?hg@?l0
+!i103 1
+S1
+R0
+R22
+R23
+R24
+L0 1
+R7
+R20
+R25
+R26
+!i113 1
+o-sv
+R11
+vinstruction_memory
+R1
+R21
+!i10b 1
+!s100 UO^laoeQzH:UH5H5GYCA;1
+I@YK9G_I4ZUBz2HnA^1gOg3
+R3
+!s105 instruction_memory_sv_unit
+S1
+R0
+w1571980696
+8instruction_memory.sv
+Finstruction_memory.sv
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 instruction_memory.sv|
+!s90 -reportprogress|300|-sv|instruction_memory.sv|
+!i113 1
+o-sv
+R11
+vmips_mult_tb
+R1
+R2
+DXx4 work 20 mips_mult_tb_sv_unit 0 22 o2XN^[f;K<WHZnKZ5=[1_0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 fiO=dK[Q5F0@@8[;[I>=W1
+IF4V7_^@hS]V^He2MLTl:43
+!s105 mips_mult_tb_sv_unit
+S1
+R0
+Z27 w1572031240
+Z28 8mips_mult_tb.sv
+Z29 Fmips_mult_tb.sv
+L0 6
+R7
+Z30 !s108 1572033523.000000
+Z31 !s107 mips_mult_tb.sv|
+Z32 !s90 -reportprogress|300|-sv|mips_mult_tb.sv|
+!i113 1
+o-sv
+R11
+Xmips_mult_tb_sv_unit
+R1
+R2
+Vo2XN^[f;K<WHZnKZ5=[1_0
+r1
+!s85 0
+31
+!i10b 1
+!s100 KDTXXmzgUff>DCM[haFgk0
+Io2XN^[f;K<WHZnKZ5=[1_0
+!i103 1
+S1
+R0
+R27
+R28
+R29
+L0 1
+R7
+R30
+R31
+R32
+!i113 1
+o-sv
+R11
+vmips_single_cycle
+R1
+R2
+DXx4 work 25 mips_single_cycle_sv_unit 0 22 ?zg9D^z<AmEd?dO>U:64o2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 zj9L@VzN3Ao]8QkU7a@3J2
+I6OHRaGaSeN3JgC1`XV9=i1
+!s105 mips_single_cycle_sv_unit
+S1
+R0
+Z33 w1572031803
+Z34 8mips_single_cycle.sv
+Z35 Fmips_single_cycle.sv
+L0 3
+R7
+R18
+Z36 !s107 mips_single_cycle.sv|
+Z37 !s90 -reportprogress|300|-sv|mips_single_cycle.sv|
+!i113 1
+o-sv
+R11
+Xmips_single_cycle_sv_unit
+R1
+R2
+V?zg9D^z<AmEd?dO>U:64o2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^MKQ=Z7=]`?zXUDcYTecd3
+I?zg9D^z<AmEd?dO>U:64o2
+!i103 1
+S1
+R0
+R33
+R34
+R35
+L0 1
+R7
+R18
+R36
+R37
+!i113 1
+o-sv
+R11
+vmips_single_cycle_tb
+R1
+R2
+DXx4 work 28 mips_single_cycle_tb_sv_unit 0 22 Q`dZS3FFgHikLc7l0^@Ua3
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 G59DGUQhT29RE=QeXhc`B2
+IF[GfOo^7T=S2kD4P:KV5m2
+!s105 mips_single_cycle_tb_sv_unit
+S1
+R0
+Z38 w1572033288
+Z39 8mips_single_cycle_tb.sv
+Z40 Fmips_single_cycle_tb.sv
+L0 6
+R7
+R18
+Z41 !s107 mips_single_cycle_tb.sv|
+Z42 !s90 -reportprogress|300|-sv|mips_single_cycle_tb.sv|
+!i113 1
+o-sv
+R11
+Xmips_single_cycle_tb_sv_unit
+R1
+R2
+VQ`dZS3FFgHikLc7l0^@Ua3
+r1
+!s85 0
+31
+!i10b 1
+!s100 35c`0DEz9=d<_[z<NEIn;0
+IQ`dZS3FFgHikLc7l0^@Ua3
+!i103 1
+S1
+R0
+R38
+R39
+R40
+L0 1
+R7
+R18
+R41
+R42
+!i113 1
+o-sv
+R11
+vPC
+R1
+R21
+!i10b 1
+!s100 TnLZAl@cc2^8dW[mRm2UR2
+ImHRZ_bFi9n2FMzi^mXTcP2
+R3
+!s105 PC_sv_unit
+S1
+R0
+w1571949575
+8PC.sv
+FPC.sv
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 PC.sv|
+!s90 -reportprogress|300|-sv|PC.sv|
+!i113 1
+o-sv
+R11
+n@p@c
+vregfile
+R1
+R17
+!i10b 1
+!s100 :Bb@A;JM5RB3caaEi^6g_3
+ImcKCaQPK<Q?4=B3abZ7J;0
+R3
+!s105 regfile_sv_unit
+S1
+R0
+w1571103422
+8regfile.sv
+Fregfile.sv
+L0 2
+R7
+r1
+!s85 0
+31
+R18
+!s107 regfile.sv|
+!s90 -reportprogress|300|-sv|regfile.sv|
+!i113 1
+o-sv
+R11
+vstatus_reg
+R1
+R19
+!i10b 1
+!s100 1?iN^63T6:30[@o?kg_m51
+Iea`DB;?1W]gQ0]OIHV?nG2
+R3
+!s105 status_reg_sv_unit
+S1
+R0
+w1571783996
+8status_reg.sv
+Fstatus_reg.sv
+L0 1
+R7
+r1
+!s85 0
+31
+R20
+!s107 status_reg.sv|
+!s90 -reportprogress|300|-sv|status_reg.sv|
+!i113 1
+o-sv
+R11
